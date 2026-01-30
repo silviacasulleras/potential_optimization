@@ -1,7 +1,6 @@
 # potential_optimization
 
- Potential Optimization for Levitated Nanoparticles  
-*Maximizing quantum features via static potentials*
+ Potential Optimization for Levitated Nanoparticles. *Maximizing quantum features via static potentials*
 
 ## Overview
 
@@ -23,7 +22,7 @@ We thank our collaborators Piotr Grochowski and Oriol Romero-Isart for their inv
 
 ---
 
-## Methodology and Transferable Skills
+## Methodology
 
 - **Parametrization of static potentials**  
 - **Time-dependent numerical propagation** of the quantum state  
